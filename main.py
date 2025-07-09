@@ -15,6 +15,7 @@ from DoutuProcessor import DoutuProcessor
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+// 可以参考下这个： https://blog.csdn.net/qq_50598935/article/details/143700987 
 # Some global switches for debugging use only
 isDebug = not True
 
